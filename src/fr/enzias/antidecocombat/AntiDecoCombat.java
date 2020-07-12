@@ -3,7 +3,6 @@ package fr.enzias.antidecocombat;
 import fr.enzias.antidecocombat.events.*;
 import fr.enzias.antidecocombat.files.ConfigurationFile;
 import fr.enzias.antidecocombat.files.MessageFile;
-import org.bukkit.ChatColor;
 import org.bukkit.plugin.java.JavaPlugin;
 
 import java.util.HashMap;
